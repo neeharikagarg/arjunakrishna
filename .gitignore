@@ -6,7 +6,7 @@ __pycache__/
 *.py[cod]
 
 # Video files
-videos/
+#videos/
 *.mp4
 *.mkv
 *.avi
