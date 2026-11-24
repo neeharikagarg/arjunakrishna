@@ -1,0 +1,38 @@
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Video files
+videos/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+*.flac
+
+# Generated images and restoration outputs
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Temporary and generated files
+*.tmp
+*.log
+*.bak
+
+# Environment and secrets
+.env
+.env.*
+
+# VS Code local settings
+.vscode/
